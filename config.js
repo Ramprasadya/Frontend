@@ -14,3 +14,4 @@
 export const serverUrl = "https://qviqbackend.onrender.com";
 export const clientUrl = "https://ramprasad.site";
 export const hostname = "ramprasad.site";
+
