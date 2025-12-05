@@ -9,9 +9,8 @@
 //  export const clientUrl = "http://localhost:3000";
 //  export const hostname = "localhost:3000";
 
-
 // for test Deployment on Vercel purpose
 export const serverUrl = "https://qviqbackend.onrender.com";
-export const clientUrl = "https://ramprasad.site";
-export const hostname = "ramprasad.site";
+export const clientUrl = "https://qviq.io";
+export const hostname = "qviq.io";
 
