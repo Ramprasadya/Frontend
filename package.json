@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start -p $PORT",
+    "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
@@ -31,7 +31,7 @@
     "libphonenumber-js": "^1.10.53",
     "lodash": "^4.17.21",
     "lottie-web": "^5.12.2",
-    "next": "^16.0.7",
+    "next": "^14.2.35",
     "qr-code-styling": "^1.6.0-rc.1",
     "qrcode-with-logos": "^1.1.0",
     "react": "^18.3.1",
